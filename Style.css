@@ -1,0 +1,47 @@
+style
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0e0b1d;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  width: 300px;
+  background: #1b1632;
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.image-section img {
+  width: 100%;
+[5/30, 22:22] : height: auto;
+  filter: grayscale(100%) sepia(20%) hue-rotate(240deg) saturate(300%);
+}
+
+.text-section {
+  padding: 20px;
+}
+
+.highlight {
+  color: #b56cff;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.stats div {
+  line-height: 1.4;
+  text-transform: uppercase;
+  color: 
+
+
